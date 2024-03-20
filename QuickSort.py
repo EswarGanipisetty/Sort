@@ -25,3 +25,8 @@ arr = [12, 3, 5, 7, 4, 19, 26]
 i = 3  # Find the 3rd order statistic (0-indexed)
 ith_statistic = ith_order_statistic(arr, i)
 print(f"The {i+1}th order statistic is: {ith_statistic}")
+
+
+#output
+#The 4th order statistic is: 7
+
